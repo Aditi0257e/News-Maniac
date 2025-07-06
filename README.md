@@ -24,7 +24,7 @@ The project was developed as a practical exercise to master **React.js** and **T
 
 ---
 
-## **Getting Started**  
+
 
 ### **Prerequisites**  
 - Node.js and npm installed on your machine.  
